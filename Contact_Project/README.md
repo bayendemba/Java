@@ -53,7 +53,7 @@ public class Contact {
     }
 }
 ```
-# Enité ContactAmi héritant la class Contact
+# Entité ContactAmi héritant la class Contact
 ```java
 package iam;
 
